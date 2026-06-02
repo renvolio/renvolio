@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 # Hi there, I'm Renvolio! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4c5a9,100:7d6e55&height=180&section=header&text=renvolio%20•%20devops%20•%20sre&fontSize=30&fontColor=f5f0e6&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4c5a9,100:7d6e55&height=180&section=header&text=Renvolio%20•%20DevOps%20•%20SRE&fontSize=30&fontColor=f5f0e6&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3c4a2,100:5a7d5a&height=180&section=header&text=renvolio%20•%20devops%20•%20sre&fontSize=30&fontColor=fdfaf3&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 ### 👤 About Me
