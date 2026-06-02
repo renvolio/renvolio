@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 # Hi there, I'm Renvolio! 👋
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x200?text=Renvolio+DevOps+SRE" width="100%" />
+  <img src="https://placehold.co/1200x200/1e1e2f/white?text=Renvolio+DevOps+SRE" width="100%" />
 </p>
 
 ### 👤 About Me
-I am an **IT Student** specializing in **DevOps and Site Reliability Engineering (SRE)**. I enjoy building stable infrastructure, automating deployment pipelines, and working with cloud-native technologies. 
+I am an **IT Student** specializing in **DevOps and Site Reliability Engineering (SRE)**.
 
-- 🔭 **Current Focus:** Deep diving into Kubernetes architecture and ecosystem.
+- 🔭 **Current Focus:** Deep diving into Kubernetes architecture.
 - 🌱 **Learning:** Advanced infrastructure scaling and high-availability systems.
 - 💬 **Ask me about:** Linux automation, containerization, and monitoring setups.
 - 📚 **Fun fact:** I love reading classical literature.
@@ -57,15 +57,14 @@ I am an **IT Student** specializing in **DevOps and Site Reliability Engineering
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renvolio&show_icons=true&theme=radical" alt="Renvolio's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renvolio&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Renvolio&show_icons=true&theme=radical&verify=1" alt="Renvolio's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renvolio&layout=compact&theme=radical&verify=1" alt="Top Langs" width="48%" />
 </p>
 
 ---
 
 ### 📫 Connect with me
-<!-- Вы можете раскомментировать строки ниже и вставить свои ссылки -->
-<!-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me) -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) -->hields.io)](https://t.me) -->
-<!-- [![LinkedIn](https://shields.io)](https://linkedin.com) -->
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AragornFromTomsk)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) -->
 
