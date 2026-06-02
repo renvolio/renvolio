@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Renvolio! 👋
 
 <p align="center">
-  <img src="https://placehold.co/1200x200/e8f0ea/2c3e50?text=~%20renvolio%20~%20•%20devops%20•%20sre%20•%20classic%20literature%20~" width="100%" />
+  <img src="https://placehold.co/1200x50/00000000/2c3e50?text=renvolio%20•%20devops%20•%20sre" width="100%" />
 </p>
 
 ### 👤 About Me
