@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Renvolio! 👋
 
 <p align="center">
-  <img src="https://placehold.co/1200x200/1e1e2f/white?text=Renvolio+DevOps+SRE" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a47d5&height=200&section=header&text=Renvolio%20DevOps%20SRE&fontSize=50&fontColor=white&animation=fadeIn" width="100%" />
 </p>
 
 ### 👤 About Me
@@ -45,6 +45,7 @@ I am an **IT Student** specializing in **DevOps and Site Reliability Engineering
 #### 💾 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 💻 Programming & Web Frontend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
