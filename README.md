@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Renvolio! 👋
 
 <p align="center">
-  <img src="https://placehold.co/1200x50/00000000/2c3e50?text=renvolio%20•%20devops%20•%20sre" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4c5a9,100:7d6e55&height=180&section=header&text=renvolio%20•%20devops%20•%20sre&fontSize=30&fontColor=f5f0e6&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 ### 👤 About Me
@@ -52,15 +52,6 @@ I am an **IT Student** specializing in **DevOps and Site Reliability Engineering
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renvolio&show_icons=true&theme=radical&verify=1" alt="Renvolio's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renvolio&layout=compact&theme=radical&verify=1" alt="Top Langs" width="48%" />
-</p>
 
 ---
 
